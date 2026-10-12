@@ -1,0 +1,13 @@
+:HL["/tools-showcase-pages/_next/static/chunks/0qh25v-zao1k7.css","style"]
+:HL["/tools-showcase-pages/screenshots/hp-estimate-simulator.png","image"]
+:HL["/tools-showcase-pages/screenshots/tankyu-bunseki.png","image"]
+:HL["/tools-showcase-pages/screenshots/hojokin-shindan-a.png","image"]
+:HL["/tools-showcase-pages/screenshots/hojokin-shindan-b.png","image"]
+:HL["/tools-showcase-pages/screenshots/bizinsight.png","image"]
+:HL["/tools-showcase-pages/screenshots/cmo-ai-demo.png","image"]
+:HL["/tools-showcase-pages/screenshots/kokuho-simulator.png","image"]
+:HL["/tools-showcase-pages/screenshots/pet-cremation-estimate.png","image"]
+:HL["/tools-showcase-pages/screenshots/solar-battery-diagnosis.png","image"]
+:HL["/tools-showcase-pages/screenshots/seko-yoryo-generator.png","image"]
+:HL["/tools-showcase-pages/screenshots/gyomu-kaizen-ai-lab.png","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"7nL2FDZp_GJUGxXOwH5Cz"}
